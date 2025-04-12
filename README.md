@@ -1,4 +1,4 @@
-<img src="image1.png">
+<img src="image.png">
 
 Hi 👋 My name is Rishi Pandey
 =============================
