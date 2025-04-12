@@ -1,5 +1,3 @@
-<img src="image.png">
-
 Hi 👋 My name is Rishi Pandey
 =============================
 
