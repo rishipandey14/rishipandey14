@@ -2,7 +2,7 @@ Hi 👋 My name is Rishi Pandey
 =============================
 
 MERN Stack Developer
---------------------
+---------------------
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [work.rishi14@gmail.com](mailto:work.rishi14@gmail.com)
