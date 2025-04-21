@@ -7,7 +7,6 @@ MERN Stack Developer
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [work.rishi14@gmail.com](mailto:work.rishi14@gmail.com)
 * 🚀  I'm currently working on [SafeKeyz](http://github.com/rishipandey14/SafeKeyz)
-* 🧠  I'm learning React.js
 
 ### Skills
 
