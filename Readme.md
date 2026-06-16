@@ -8,12 +8,11 @@ You can call me a Full-Stack, Backend, or Sofyware Engineer - I just love buildi
 
 ## Tech Stack
 
-### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,sql,django,nodejs,express,react,html,css,mysql,mongodb,redis, docker,git,github,linux,postman,githubactions, aws&theme=dark" />
 </p>
 
-### 🚀 Frameworks & Technologies
+<!-- ### 🚀 Frameworks & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django,nodejs,express,react,html,css&theme=dark" />
 </p>
@@ -31,7 +30,7 @@ You can call me a Full-Stack, Backend, or Sofyware Engineer - I just love buildi
 ### ☁️ Cloud & Infrastructure
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
-</p>
+</p> -->
 
 
 ## GitHub Stats
