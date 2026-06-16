@@ -13,7 +13,7 @@ You can call me a Full-Stack, Backend, or Sofyware Engineer - I just love buildi
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=css,mysql,mongodb,redis,docker,git,github,linux,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css,mysql,mongodb,redis,docker,git,github,linux,aws,githubactions&theme=dark" />
 </p>
 
 <!-- ### 🚀 Frameworks & Technologies
