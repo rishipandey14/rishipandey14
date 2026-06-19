@@ -10,14 +10,14 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 - 🔭 Currently building scalable backend systems & full-stack applications
 
 - 🤖 Exploring Agentic AI, LLMs, AI Agents, Automation Workflows & Multi-Agent Systems
-
+<!-- 
 - 💡 Passionate about Backend Development, System Design & Cloud Technologies
 
-- 🧩 Love solving real-world problems through software engineering
+- 🧩 Love solving real-world problems through software engineering -->
 
 - ⚔️ Knight on LeetCode with 1500+ problems solved across Data Structures & Algorithms
 
-- 📚 Continuously learning distributed systems, backend architecture, and modern AI engineering
+<!-- - 📚 Continuously learning distributed systems, backend architecture, and modern AI engineering -->
 
 - 📬 Reach me at: **work.rishi14@gmail.com**
 
