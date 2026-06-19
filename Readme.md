@@ -1,8 +1,8 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Rishi Pandey</h1>
 <h3 align="center">Software Developer | Backend Engineering | Agentic AI Enthusiast</h3>
 
-<img align="right" alt="coding" width="420"
+<img align="right" alt="coding" width="380"
 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🚀 About Me
@@ -132,4 +132,3 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 <p align="center">
   <i>Building scalable software, one commit at a time 🚀</i>
 </p>
-```
