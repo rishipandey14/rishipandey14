@@ -15,7 +15,7 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 
 - 🧩 Love solving real-world problems through software engineering -->
 
-- ⚔️ Knight on LeetCode with 1500+ problems solved across Data Structures & Algorithms
+- ⚔️ Knight on LeetCode with 1800+ problems solved across Data Structures & Algorithms
 
 <!-- - 📚 Continuously learning distributed systems, backend architecture, and modern AI engineering -->
 
@@ -119,7 +119,7 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 
 - ⚔️ Knight on LeetCode
 
-- 🧠 Solved 1500+ DSA Problems
+- 🧠 Solved 1800+ DSA Problems
 
 - 🚀 Strong foundation in Data Structures, Algorithms & Problem Solving
 
